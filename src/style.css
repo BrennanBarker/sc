@@ -1,0 +1,17 @@
+#paragraph {
+	align-content: center;
+	align-items: center;
+	display: flex;
+	gap: 0.2em;
+}
+
+
+#modelparams{
+	display: flex;
+	flex-wrap: wrap;
+	align-items: flex-start;
+}
+
+#result{
+	margin-bottom: 8em;
+}
